@@ -9,7 +9,6 @@
 
 ---
 
-
 ### **Project Overview**
 
 **AI Learning Platform** is a project that focuses on creating an accessible and personalized online education experience using artificial intelligence. The platform is designed to offer interactive learning tools, adaptive assessments, and AI-driven recommendations to enhance the learning process for students of all levels.
