@@ -28,7 +28,6 @@ The main features of **AI Learning Platform** include:
 ---
 
 
-
 ### **Installation**
 
 To set up **AI Learning Platform** on your local machine, follow these steps:
