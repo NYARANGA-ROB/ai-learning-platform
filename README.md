@@ -60,7 +60,6 @@ To set up **AI Learning Platform** on your local machine, follow these steps:
     npm run dev
     ```
 ---
-
 ### **Screenshots**
 
 Here are some visuals from the project:
